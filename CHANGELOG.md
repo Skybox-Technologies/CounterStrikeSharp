@@ -1,3 +1,12 @@
+## What's Changed in v1.0.374
+* feat: Add `CustomHudLayout` api by [@qstage](https://github.com/qstage) in [#1410](https://github.com/roflmuffin/CounterStrikeSharp/pull/1410) ([338b22c](https://github.com/roflmuffin/CounterStrikeSharp/commit/338b22c1f3fd4f59d2872f7aa422a8a6ae939f37))
+* Fix DropActivePlayerWeapon passing uninitialized vecDropMomentum by [@Umbre11as](https://github.com/Umbre11as) in [#1407](https://github.com/roflmuffin/CounterStrikeSharp/pull/1407) ([2836093](https://github.com/roflmuffin/CounterStrikeSharp/commit/28360939d676101ae544eb7fc954fa46131e27da))
+* chore: Update Schema Definitions to 1.41.7.7 in [#1358](https://github.com/roflmuffin/CounterStrikeSharp/pull/1358) ([be766aa](https://github.com/roflmuffin/CounterStrikeSharp/commit/be766aac329872f936490615d8319f56a34ce1a4))
+* chore: bump checkout action to v7 ([afa0c99](https://github.com/roflmuffin/CounterStrikeSharp/commit/afa0c99002fa71ee06bba0bbbb894538428564c5))
+
+## New Contributors
+* [@Umbre11as](https://github.com/Umbre11as) made their first contribution in [#1407](https://github.com/roflmuffin/CounterStrikeSharp/pull/1407)
+
 ## What's Changed in v1.0.373
 * fix: Update for latest CS2 Game Update [1.41.7.7] ([faa9782](https://github.com/roflmuffin/CounterStrikeSharp/commit/faa9782072ec2b41ef22efe58f829447f12ab051))
 
